@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1425092402 source:c:\users\kalyan\desktop\complex\complex.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	"Complex.h"
+	"Drawpixel.h"
+	"Mandelbrot.h"
+
+1425271301 c:\users\kalyan\desktop\complex\complex.h
+
+1425291908 c:\users\kalyan\desktop\complex\drawpixel.h
+	<GL/glut.h>
+	<GL/gl.h>
+
+1425804436 c:\users\kalyan\desktop\complex\mandelbrot.h
+	"Complex.h"
+	"Drawpixel.h"
+
+1425291697 source:c:\users\kalyan\desktop\complex\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	"Complex.h"
+	"Drawpixel.h"
+	"Mandelbrot.h"
+
